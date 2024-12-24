@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+### This is Sportify App Admin panel
